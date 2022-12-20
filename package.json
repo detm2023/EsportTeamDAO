@@ -1,0 +1,6 @@
+{
+  "name": "@aragon/contract-helpers",
+  "private": true,
+  "author": "Aragon Assocation <legal@aragon.org>",
+  "license": "MIT"
+}

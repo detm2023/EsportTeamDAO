@@ -1,0 +1,13 @@
+# Editor files
+.tmp
+.vscode
+
+# Dependencies
+node_modules
+
+# Tests and coverage
+coverage
+.nyc_output
+
+## Lockfiles
+package-lock.json
